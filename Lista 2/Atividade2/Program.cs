@@ -9,7 +9,7 @@ class Program{
 
         // Declarando as variáveis do tipo int, string e booleana
         int num_usuario, positivos = 0, negativos = 0, zeros = 0, contador = 0;
-        int  total = 0, p_positivo, p_negativo, p_zero;
+        int total = 0, p_positivo = 0, p_negativo = 0, p_zero = 0;
         string resposta_usuario, resp_contador;
         bool start;
 
@@ -40,14 +40,6 @@ class Program{
                     zeros++;
                 else
                     negativos++;
-
-                total = positivos + negativos + zeros;
-
-                p_positivo = (total*100) / positivos;
-                p_negativo = (total*100) / negativos;
-                p_zero = (total*100) / zeros;
-
-                Console.WriteLine(p_positivo, p_negativo, p_zero);
                 
                 // Verificando se o valor da variável -contador- é 5, caso sim, entrar na condição
                 if(contador == 10){
@@ -68,6 +60,13 @@ class Program{
                         start = false;
                 }
             }
+            total = positivos + negativos + zeros;
+
+            
+            p_positivo = (positivos*100) / total;
+            p_negativo = (negativos*100) / total;
+            p_zero = (zeros*100) / total;
+
             // Imprimindo as informações sobre os números digitados
             Console.WriteLine("O resultado dos números registrados é: \nPositivos ({0}%): {1} \nNegativos ({2}%): {3} \nZeros ({4}%): {5}", p_positivo, positivos, p_negativo, negativos, p_zero, zeros);
         }

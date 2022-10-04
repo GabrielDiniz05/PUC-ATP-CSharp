@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Sistemas da Informação\\Algoritmos\\Atividades\\Lista 2\\Atividade2\\Atividade2.csproj",
-      "projectName": "Atividade2",
-      "projectPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Sistemas da Informação\\Algoritmos\\Atividades\\Lista 2\\Atividade2\\Atividade2.csproj",
+      "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Sistemas da Informação\\Algoritmos\\Atividades\\Lista 2\\Atividade3\\Atividade3.csproj",
+      "projectName": "Atividade3",
+      "projectPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Sistemas da Informação\\Algoritmos\\Atividades\\Lista 2\\Atividade3\\Atividade3.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Sistemas da Informação\\Algoritmos\\Atividades\\Lista 2\\Atividade2\\obj\\",
+      "outputPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Sistemas da Informação\\Algoritmos\\Atividades\\Lista 2\\Atividade3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config"

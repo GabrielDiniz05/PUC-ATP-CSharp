@@ -23,7 +23,7 @@ class Program{
             // Atribuindo o valor TRUE a variável -start-
             start = true;
             // Enquanto a variável -start- for igual a TRUE o programa continuara rodando
-            while(start){
+            while(true){
                 // Adicionando 1 a variável -contador-
                 contador++;
                 
@@ -52,7 +52,7 @@ class Program{
                         contador = 0;
                     // Caso não, valor FALSE atribuído a variável start, para que o loop possa ser interrompido
                     else if(resp_contador.ToUpper() == "N")
-                        start = false;
+                        break;// start = false;
                     // Caso nenhuma das condições anteriores seja atingida, significa que há uma entrada inválida, sendo assim, mandar mensagem para o usuário e finalizar o loop
                     else
                         Console.WriteLine("Entrada Inválida, suspendendo programa. Favor reiniciar!");
