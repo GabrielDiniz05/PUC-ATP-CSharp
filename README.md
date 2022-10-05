@@ -1,2 +1,2 @@
-# PUC-ATP-CSharp
-Repositório para guardar as listas de csharp
+# PUC-ATP-C#
+Repositório com objetivod e arquivar as atividades de C#
