@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\Sistemas da Informação\Algoritmos\Atividades\Lista 2\Atividade6\obj\Debug\net6.0\Atividade6.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Sistemas da Informação\Algoritmos\Atividades\Lista 2\Atividade6\obj\Debug\net6.0\Atividade6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\Sistemas da Informação\Algoritmos\Atividades\Lista 2\Atividade6\obj\Debug\net6.0\Atividade6.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Sistemas da Informação\Algoritmos\Atividades\Lista 2\Atividade6\obj\Debug\net6.0\Atividade6.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\Sistemas da Informação\Algoritmos\Atividades\Lista 2\Atividade6\obj\Debug\net6.0\Atividade6.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Sistemas da Informação\Algoritmos\Atividades\Lista 2\Atividade6\bin\Debug\net6.0\Atividade6.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Sistemas da Informação\Algoritmos\Atividades\Lista 2\Atividade6\bin\Debug\net6.0\Atividade6.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Sistemas da Informação\Algoritmos\Atividades\Lista 2\Atividade6\bin\Debug\net6.0\Atividade6.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Sistemas da Informação\Algoritmos\Atividades\Lista 2\Atividade6\bin\Debug\net6.0\Atividade6.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Sistemas da Informação\Algoritmos\Atividades\Lista 2\Atividade6\bin\Debug\net6.0\Atividade6.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Sistemas da Informação\Algoritmos\Atividades\Lista 2\Atividade6\obj\Debug\net6.0\Atividade6.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Sistemas da Informação\Algoritmos\Atividades\Lista 2\Atividade6\obj\Debug\net6.0\refint\Atividade6.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Sistemas da Informação\Algoritmos\Atividades\Lista 2\Atividade6\obj\Debug\net6.0\Atividade6.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Sistemas da Informação\Algoritmos\Atividades\Lista 2\Atividade6\obj\Debug\net6.0\Atividade6.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Sistemas da Informação\Algoritmos\Atividades\Lista 2\Atividade6\obj\Debug\net6.0\ref\Atividade6.dll
