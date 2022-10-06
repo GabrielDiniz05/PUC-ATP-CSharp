@@ -10,17 +10,23 @@ class Program{
             O algoritmo deve escrever cada termo gerado e o valor final de S.
         */
 
+        // Declarando variáveis
         int numero;
 
         double s = 0;
 
+        // Solicitando a entrada de dados
         Console.WriteLine("Insira um número: ");
         numero = int.Parse(Console.ReadLine());
 
+        // Laço de repetição para efetuar a operação enquanto for necessário
         for(int i = 1; i <= numero; i++){
+            // Operação e impreção dos dados desejados
             s+=(1.0/i);
             Console.WriteLine("(S) dentro do FOR: " + s);
         }
+
+        // Imprimindo resultado final
         Console.WriteLine("RESULTADO FINAL: " + s);
     }
 }

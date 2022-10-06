@@ -21,7 +21,7 @@ class Program{
         // Atribuindo o valor de N na variável AUX
         aux = n;
 
-        // Laço de repetição 
+        // Laço de repetição para fazer o fatorial e repetir quantas vezes necessário para finalizar a operação
         for(int i = 0; i < n; i++){
             e += (1.0/fat);
             Console.WriteLine(e);
@@ -31,6 +31,7 @@ class Program{
             aux = n;
             aux-=i;     
         }
+        // Imprimindo o resultado
         Console.WriteLine("Resultado: " + e);
     }
 }
