@@ -9,7 +9,7 @@ class Program{
             if(num1%divisor == 0 || num2%divisor == 0){
                 int aux1 = 0, aux2 = 0;
 
-                Console.WriteLine("N1: " + num1 + "\nN2: " + num2);
+                Console.WriteLine("[{0}, {1} | {2}]", num1, num2, divisor);
 
                 if(num1 == 1){
                     num1 = 1;
@@ -48,7 +48,7 @@ class Program{
         Console.WriteLine("Insira o segundo número: ");
         n2 = int.Parse(Console.ReadLine());
 
-        Console.WriteLine("O MDC de {0} e {1} é: {2}", n1, n2, mdc(n1, n2));
+        Console.WriteLine("\n\nO MDC de {0} e {1} é: {2}", n1, n2, mdc(n1, n2));
 
     }
 }
