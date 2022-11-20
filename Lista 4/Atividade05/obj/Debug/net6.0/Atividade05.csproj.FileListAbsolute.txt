@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\Sistemas da Informação\Algoritmos\Atividades\Lista 4\Atividade05\bin\Debug\net6.0\Atividade05.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Sistemas da Informação\Algoritmos\Atividades\Lista 4\Atividade05\bin\Debug\net6.0\Atividade05.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Sistemas da Informação\Algoritmos\Atividades\Lista 4\Atividade05\bin\Debug\net6.0\Atividade05.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Sistemas da Informação\Algoritmos\Atividades\Lista 4\Atividade05\bin\Debug\net6.0\Atividade05.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Sistemas da Informação\Algoritmos\Atividades\Lista 4\Atividade05\bin\Debug\net6.0\Atividade05.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Sistemas da Informação\Algoritmos\Atividades\Lista 4\Atividade05\obj\Debug\net6.0\Atividade05.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Sistemas da Informação\Algoritmos\Atividades\Lista 4\Atividade05\obj\Debug\net6.0\Atividade05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\Sistemas da Informação\Algoritmos\Atividades\Lista 4\Atividade05\obj\Debug\net6.0\Atividade05.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Sistemas da Informação\Algoritmos\Atividades\Lista 4\Atividade05\obj\Debug\net6.0\Atividade05.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\Sistemas da Informação\Algoritmos\Atividades\Lista 4\Atividade05\obj\Debug\net6.0\Atividade05.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Sistemas da Informação\Algoritmos\Atividades\Lista 4\Atividade05\obj\Debug\net6.0\Atividade05.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Sistemas da Informação\Algoritmos\Atividades\Lista 4\Atividade05\obj\Debug\net6.0\refint\Atividade05.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Sistemas da Informação\Algoritmos\Atividades\Lista 4\Atividade05\obj\Debug\net6.0\Atividade05.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Sistemas da Informação\Algoritmos\Atividades\Lista 4\Atividade05\obj\Debug\net6.0\Atividade05.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Sistemas da Informação\Algoritmos\Atividades\Lista 4\Atividade05\obj\Debug\net6.0\ref\Atividade05.dll
