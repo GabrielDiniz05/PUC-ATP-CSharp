@@ -1,0 +1,2 @@
+Testando o programa que le as linhas
+que existem no arquivo
