@@ -4,7 +4,7 @@ using System.Text;
 class Program{
 
     public static void Main(string[] args){
-        String caminho = @"C:\Users\gabri\OneDrive\Área de Trabalho\Sistemas da Informação\Algoritmos\Atividades\Lista 5\Atividade04\ler.txt";
+        String caminho = @".\ler.txt";
 
         StreamReader sr = new StreamReader(caminho);
 
